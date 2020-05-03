@@ -5,5 +5,5 @@
   </a>
 </p>
 <h1 align="center">
- Cup 0 Coffee Project
+ Gatsby Cup-o-Coffee Project
 </h1>

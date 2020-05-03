@@ -11,13 +11,12 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import "./bootstrap.min.css"
 import "./layout.css"
-import {RiShoppingCartLine} from "react-icons/ri";
+import { RiShoppingCartLine } from "react-icons/ri"
 
 const Layout = ({ children }) => {
-
   return (
     <>
-      <RiShoppingCartLine/>
+      <RiShoppingCartLine />
       {children}
     </>
   )
